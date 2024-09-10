@@ -57,7 +57,7 @@
   text-size: 16px;
   border-radius: 12px;
   margin: 4px 2px;
-  display: block;
+  display: inline;
   width: 15%;
 }
 .btn:hover {
