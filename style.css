@@ -83,6 +83,7 @@
 }
 html {
     background-color: #5d00ba;
+    scroll-behavior: smooth;
 }
 iframe {
   border-radius: 12px;
