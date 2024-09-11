@@ -97,6 +97,7 @@ iframe {
 img {
   width: 784px;
   vertical-align: middle;
+  border-radius: 12px;
 }
 * {box-sizing: border-box}
 
