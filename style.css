@@ -85,12 +85,6 @@ html {
     background-color: #5d00ba;
 }
 iframe {
-  width: 90%;
-  height: 300px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 16px 16px;
-  background-color: #FFFFFF;
   border-radius: 12px;
 }
 .mySlides {display:none;}
