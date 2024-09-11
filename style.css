@@ -21,6 +21,21 @@
   margin-left: auto;
   margin-right: auto;
 }
+#frameH {
+  max-width: 800px;
+  object-fit: contain;
+
+  background-color: #7f00ff;
+  border: 1px solid #770be3;
+  border-radius: 8px;
+
+  padding: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+
+  margin-left: auto;
+  margin-right: auto;
+}
 .link {
   color: #fbf5ef;
   -webkit-transition-duration: 0.4s; /* Safari */
