@@ -96,4 +96,5 @@ iframe {
 .mySlides {display:none;}
 img {
   border-radius: 12px;
+  width: 768px;
 }
