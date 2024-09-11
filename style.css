@@ -179,6 +179,9 @@ img {
   width: 40%;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
+  padding: 4px;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 
 .card:hover {
