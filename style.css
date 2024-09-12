@@ -231,4 +231,6 @@ img {
 body {
   background-image: url("https://assets.codepen.io/1468070/Star+Pattern+3.svg");
   background-size: 10%;  
+  opacity: 0.10;
+  animation: pan 180s linear infinite;
 }
