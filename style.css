@@ -174,13 +174,13 @@ img {
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  width: 40%;
+  width: 50%;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
   padding: 4px;
   padding-left: 16px;
   padding-right: 16px;
-  display: inline;
+  display: inline-block;
 }
 
 .card:hover {
