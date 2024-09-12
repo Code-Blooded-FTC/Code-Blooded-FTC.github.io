@@ -190,7 +190,7 @@ img {
 
 .sticky {
   position: fixed;
-  margin: auto;
+  margin:0px auto;
   z-index:10000
 }
 
