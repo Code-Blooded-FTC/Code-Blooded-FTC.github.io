@@ -57,6 +57,7 @@
   margin-right: auto;
   display: block;
   width: 50%;
+  text-decoration: none;
 }
 .btnH {
   cursor: pointer;
@@ -72,6 +73,7 @@
   margin: 4px 2px;
   display: inline;
   width: 15%;
+  text-decoration: none;
 }
 .btn:hover {
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 13px 17px 0 rgba(0,0,0,0.19);
