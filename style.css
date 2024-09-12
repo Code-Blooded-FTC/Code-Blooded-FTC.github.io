@@ -32,6 +32,7 @@
   padding: 32px;
   padding-left: 16px;
   padding-right: 16px;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 13px 17px 0 rgba(0,0,0,0.19);
 }
 .link {
   color: #fbf5ef;
