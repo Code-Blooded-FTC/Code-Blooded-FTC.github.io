@@ -174,7 +174,7 @@ img {
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  width: 50%;
+  width: 40%;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
   padding: 4px;
