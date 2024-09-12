@@ -188,7 +188,6 @@ img {
 .sticky {
   position: fixed;
   z-index:10000
-  left: 50%;
   transform: translate(50%, 0);
 }
 
