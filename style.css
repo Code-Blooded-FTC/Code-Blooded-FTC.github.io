@@ -180,6 +180,7 @@ img {
   padding: 4px;
   padding-left: 16px;
   padding-right: 16px;
+  display: inline;
 }
 
 .card:hover {
