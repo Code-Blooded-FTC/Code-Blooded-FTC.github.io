@@ -229,7 +229,7 @@ img {
 }
 
 body {
-  background-image: url("https://assets.codepen.io/1468070/Star+Pattern+3.svg");
+  background-image: url("gecko.png");
   background-size: 10%;  
   animation: pan 180s linear infinite;
 }
