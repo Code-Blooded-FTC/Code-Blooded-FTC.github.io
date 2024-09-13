@@ -236,7 +236,11 @@ img {
   background-color: #eee;
 }
 
-body::before {
+body {
+  /* background-image: url("images/gecko.png");
+  background-size: 10%;  */
+}
+#gecko {
   background-image: url("images/gecko.png");
   background-size: 10%;  
   transform: translateZ(-1px) scale(2.2);
