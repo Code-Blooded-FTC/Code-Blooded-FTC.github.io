@@ -264,7 +264,7 @@ body {
   transform: translateZ(-10px) scale(2);
 }
 header {
-  position: relative;
+  position: absolute;
   display: flex;
   justify-content: center;
   align-items: center;
