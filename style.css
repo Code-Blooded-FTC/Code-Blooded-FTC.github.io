@@ -236,10 +236,7 @@ img {
   background-color: #eee;
 }
 
-.gecko {
-  height: 100%;
+.body {
   background-image: url("images/gecko.png");
   background-size: 10%;  
-  opacity: 5%;
-  z-index:-10000;
 }
