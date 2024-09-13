@@ -238,4 +238,5 @@ img {
 body {
   background-image: url("gecko.png");
   background-size: 10%;  
+  position: fixed;
 }
