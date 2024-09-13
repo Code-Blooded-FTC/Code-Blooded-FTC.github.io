@@ -241,4 +241,5 @@ img {
   background-image: url("images/gecko.png");
   background-size: 10%;  
   opacity: 5%;
+  z-index:-10000;
 }
