@@ -7,6 +7,8 @@
   flex-grow: 1;
 }
 #frame {
+  animation: appear linear;
+  animation-timeline: view();
   max-width: 800px;
   object-fit: contain;
 
@@ -249,4 +251,14 @@ body {
   padding: 60px;
   padding-left: 16px;
   padding-right: 16px;
+}
+@keyframes appear{
+  from {
+    opacity: 0;
+    size: 0.5;
+  }
+  to {
+    opacity: 1;
+    size: 1;
+  }
 }
