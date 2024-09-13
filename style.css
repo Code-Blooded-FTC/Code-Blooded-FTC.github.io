@@ -237,8 +237,8 @@ img {
 }
 
 .gecko {
+  height: 100%;
   background-image: url("images/gecko.png");
   background-size: 10%;  
   opacity: 5%;
-  height: 100%;
 }
