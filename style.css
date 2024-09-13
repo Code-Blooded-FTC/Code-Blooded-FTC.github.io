@@ -4,7 +4,7 @@
 }
 #content {
   padding: 16px;
-  flex-grow: 1
+  flex-grow: 1;
 }
 #frame {
   max-width: 800px;
@@ -248,14 +248,14 @@ body {
   overflow-y: scroll;
 }
 .gecko {
-  width: 100%
+  width: 100%;
   position: relative;
   transform-style: preserve-3d;
 }
 .gecko::before {
   background-image: url("images/gecko.png");
-  width: 100%
-  height: 100%
+  width: 100%;
+  height: 100%;
   position: absolute;
   background-size: 10%;  
   transform: translateZ(-1px) scale(2.2);
