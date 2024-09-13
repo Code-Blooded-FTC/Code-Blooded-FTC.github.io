@@ -236,7 +236,7 @@ img {
   background-color: #eee;
 }
 
-.body {
+body {
   background-image: url("images/gecko.png");
   background-size: 10%;  
 }
