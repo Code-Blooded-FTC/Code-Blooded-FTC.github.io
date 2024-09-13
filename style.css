@@ -237,7 +237,7 @@ img {
 }
 
 body {
-  
+  position: absolute;
   height: 100vh;
   overflow-y: auto;
   overflow-x: hidden;
@@ -264,7 +264,7 @@ body {
   transform: translateZ(-10px) scale(2);
 }
 header {
-  position: absolute;
+  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
