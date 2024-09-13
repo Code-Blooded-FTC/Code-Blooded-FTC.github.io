@@ -237,7 +237,8 @@ img {
 }
 
 body {
-
+  background-image: url("images/gecko.png");
+  background-size: 10%;
 }
 
 #home {
@@ -248,15 +249,4 @@ body {
   padding: 60px;
   padding-left: 16px;
   padding-right: 16px;
-}
-.gecko {
-  background-image: url("images/gecko.png");
-  background-size: 10%;
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
-  z-index: -1;
-  flex-grow: 1;
-  display: flex;
 }
