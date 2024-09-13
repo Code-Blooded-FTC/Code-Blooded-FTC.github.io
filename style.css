@@ -236,9 +236,10 @@ img {
   background-color: #eee;
 }
 
-#gecko {
+body::before {
   background-image: url("images/gecko.png");
   background-size: 10%;  
+  transform: translateZ(-1px) scale(2.2);
 }
 #home {
   max-width: 800px;
