@@ -82,7 +82,8 @@
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 13px 17px 0 rgba(0,0,0,0.19);
 }
 html {
-    background-color: #5d00ba;
+    /*background-color: #5d00ba;*/
+    background-color: #ffffff;
     scroll-behavior: smooth;
 }
 iframe {
