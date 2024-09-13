@@ -243,12 +243,9 @@ body {
 #home {
   max-width: 800px;
   object-fit: contain;
-  opacity: 0&
+  opacity: 0%;
   background-color: #7f00ff;
-  border: 1px solid #770be3;
-  border-radius: 8px;
-
-  padding: 32px;
+  padding: 40px;
   padding-left: 16px;
   padding-right: 16px;
 }
